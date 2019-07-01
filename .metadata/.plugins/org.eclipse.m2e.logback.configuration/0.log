@@ -1,0 +1,69 @@
+2019-07-01 18:53:19,655 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-01 18:54:35,067 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acordo-certo-test-domain:acordo-certo-test-domain:0.0.1-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace\felipezanatta\acordo-certo-test\acordo-certo-test-domain\pom.xml.
+2019-07-01 18:54:36,212 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acordo-certo-test-web:acordo-certo-test-web:0.0.1-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace\felipezanatta\acordo-certo-test\acordo-certo-test-web\pom.xml.
+2019-07-01 18:54:36,984 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acordo-certo-test-service:acordo-certo-test-service:0.0.1-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace\felipezanatta\acordo-certo-test\acordo-certo-test-service\pom.xml.
+2019-07-01 18:54:42,402 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-domain/src/main/java
+2019-07-01 18:54:42,403 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-domain/src/main/resources
+2019-07-01 18:54:42,404 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-domain/src/main/resources
+2019-07-01 18:54:42,405 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-domain/src/test/java
+2019-07-01 18:54:42,406 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-domain/src/test/resources
+2019-07-01 18:54:42,571 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-web/src/main/java
+2019-07-01 18:54:42,571 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-web/src/main/resources
+2019-07-01 18:54:42,572 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-web/src/main/resources
+2019-07-01 18:54:42,573 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-web/src/test/java
+2019-07-01 18:54:42,573 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-web/src/test/resources
+2019-07-01 18:54:42,630 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-service/src/main/java
+2019-07-01 18:54:42,631 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-service/src/main/resources
+2019-07-01 18:54:42,637 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-service/src/main/resources
+2019-07-01 18:54:42,638 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-service/src/test/java
+2019-07-01 18:54:42,638 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-service/src/test/resources
+2019-07-01 18:54:42,688 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 14 sec
+2019-07-01 18:54:49,658 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 18:54:49,676 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:49,677 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:49,680 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 18:54:49,686 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:50,476 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 18:54:50,483 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:50,484 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:50,494 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 18:54:50,494 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:50,686 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 18:54:50,687 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:50,694 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 18:54:50,698 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 18:54:50,698 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:26,125 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acordo-certo-test-domain:acordo-certo-test-domain:0.0.1-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace\felipezanatta\acordo-certo-test\acordo-certo-test-domain\pom.xml.
+2019-07-01 19:03:26,420 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acordo-certo-test-web:acordo-certo-test-web:0.0.1-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace\felipezanatta\acordo-certo-test\acordo-certo-test-web\pom.xml.
+2019-07-01 19:03:26,792 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acordo-certo-test-service:acordo-certo-test-service:0.0.1-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace\felipezanatta\acordo-certo-test\acordo-certo-test-service\pom.xml.
+2019-07-01 19:03:27,614 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-domain/src/main/java
+2019-07-01 19:03:27,624 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-domain/src/main/resources
+2019-07-01 19:03:27,631 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-domain/src/main/resources
+2019-07-01 19:03:27,632 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-domain/src/test/java
+2019-07-01 19:03:27,640 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-domain/src/test/resources
+2019-07-01 19:03:27,844 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-web/src/main/java
+2019-07-01 19:03:27,860 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-web/src/main/resources
+2019-07-01 19:03:27,860 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-web/src/main/resources
+2019-07-01 19:03:27,861 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-web/src/test/java
+2019-07-01 19:03:27,861 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-web/src/test/resources
+2019-07-01 19:03:27,938 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-service/src/main/java
+2019-07-01 19:03:27,939 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-service/src/main/resources
+2019-07-01 19:03:27,939 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-service/src/main/resources
+2019-07-01 19:03:27,941 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /acordo-certo-test-service/src/test/java
+2019-07-01 19:03:27,941 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /acordo-certo-test-service/src/test/resources
+2019-07-01 19:03:28,021 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 3 sec
+2019-07-01 19:03:28,632 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 19:03:28,633 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:28,653 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:28,656 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 19:03:28,657 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:29,216 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 19:03:29,216 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:29,217 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:29,219 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 19:03:29,220 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:29,541 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 19:03:29,542 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:29,542 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 19:03:29,544 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-01 19:03:29,544 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
